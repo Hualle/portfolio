@@ -41,7 +41,7 @@ html{
     color: #fff;
     margin: 0 15px ;
     padding: 3px ;
-    transition: 0.5s;
+    transition: .5s;
     text-decoration: none;
 }   
 .contenedor-header header nav ul li a:hover{
@@ -101,7 +101,7 @@ html{
     line-height: 42px;
     margin: 40px 5px;
     font-size: 20px;
-    transition: 3.s;
+    transition: .3s;
 }
 .inicio .contenido-banner .redes a:hover{
     background-color: #1cb698;
@@ -173,7 +173,7 @@ html{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    transition: 0.3s;
+    transition: .3s;
 }.sobremi .fila .col .contenedor-intereses .interes:hover{
     background-color: #1CB698;
 }
@@ -229,7 +229,7 @@ html{
 }
 .skills .fila .col{
     width: 50%;
-    padding: 0 20%;
+    padding: 0 20px;
 }
 .skills .fila .col h3{
     font-size: 28px;
@@ -267,6 +267,7 @@ html{
     right: -15px;
     font-size: 14px;
 }
+/* se agregaran dinamicamente mediante js */
 .skills .skill .javascript{
     width: 0%;
     animation: 2s javascript forwards;
@@ -279,7 +280,7 @@ html{
     width: 0%;
     animation: 2s htmlcss forwards;
 }
-@keyframes .htmlcss{
+@keyframes htmlcss{
     0%{width: 0%;}
     100%{width: 90%;}   
 }
@@ -287,7 +288,7 @@ html{
     width: 0%;
     animation: 2s c++ forwards;
 }
-@keyframes .c++{
+@keyframes c++{
     0%{width: 0%;}
     100%{width: 65%;}   
 }
@@ -295,7 +296,7 @@ html{
     width: 0%;
     animation: 2s java forwards;
 }
-@keyframes .java{
+@keyframes java{
     0%{width: 0%;}
     100%{width: 30%;}   
 }
@@ -303,7 +304,7 @@ html{
     width: 0%;
     animation: 2s comunicacion forwards;
 }
-@keyframes .comunicacion{
+@keyframes comunicacion{
     0%{width: 0%;}
     100%{width: 80%;}   
 }
@@ -311,7 +312,7 @@ html{
     width: 0%;
     animation: 2s trabajo forwards;
 }
-@keyframes .trabajo{
+@keyframes trabajo{
     0%{width: 0%;}
     100%{width: 70%;}   
 }
@@ -319,7 +320,7 @@ html{
     width: 0%;
     animation: 2s creatividad forwards;
 }
-@keyframes .creatividad{
+@keyframes creatividad{
     0%{width: 0%;}
     100%{width: 95%;}   
 }
@@ -327,7 +328,7 @@ html{
     width: 0%;
     animation: 2s dedicacion forwards;
 }
-@keyframes .java{
+@keyframes dedicacion{
     0%{width: 0%;}
     100%{width: 75%;}   
 }
