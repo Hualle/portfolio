@@ -273,6 +273,61 @@ html{
 }
 @keyframes javascript{
     0%{width: 0%;}
-        100%{width: 75%;}
-    
+    100%{width: 75%;}
+}
+.skills .skill .htmlcss{
+    width: 0%;
+    animation: 2s htmlcss forwards;
+}
+@keyframes .htmlcss{
+    0%{width: 0%;}
+    100%{width: 90%;}   
+}
+.skills .skill .c++{
+    width: 0%;
+    animation: 2s c++ forwards;
+}
+@keyframes .c++{
+    0%{width: 0%;}
+    100%{width: 65%;}   
+}
+.skills .skill .java{
+    width: 0%;
+    animation: 2s java forwards;
+}
+@keyframes .java{
+    0%{width: 0%;}
+    100%{width: 30%;}   
+}
+.skills .skill .comunicacion{
+    width: 0%;
+    animation: 2s comunicacion forwards;
+}
+@keyframes .comunicacion{
+    0%{width: 0%;}
+    100%{width: 80%;}   
+}
+.skills .skill .trabajo{
+    width: 0%;
+    animation: 2s trabajo forwards;
+}
+@keyframes .trabajo{
+    0%{width: 0%;}
+    100%{width: 70%;}   
+}
+.skills .skill .creatividad{
+    width: 0%;
+    animation: 2s creatividad forwards;
+}
+@keyframes .creatividad{
+    0%{width: 0%;}
+    100%{width: 95%;}   
+}
+.skills .skill .dedicacion{
+    width: 0%;
+    animation: 2s dedicacion forwards;
+}
+@keyframes .java{
+    0%{width: 0%;}
+    100%{width: 75%;}   
 }
