@@ -358,6 +358,7 @@ html{
 }
 .curriculum .fila .col h3{
     font-size: 28px;
+    text-align: center;
     font-family: 'Righteous';
     margin-bottom: 25px;
 }
