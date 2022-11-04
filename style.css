@@ -284,11 +284,11 @@ html{
     0%{width: 0%;}
     100%{width: 90%;}   
 }
-.skills .skill .c++{
+.skills .skill .c{
     width: 0%;
-    animation: 2s c++ forwards;
+    animation: 2s c forwards;
 }
-@keyframes c++{
+@keyframes c{
     0%{width: 0%;}
     100%{width: 65%;}   
 }
