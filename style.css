@@ -76,7 +76,7 @@ html{
     margin-top: 40px;
     border: 10px solid #1cb698;
     display: block;
-    width: 80%;
+    width: 70%;
     margin: auto;
     border-radius:  100%;
 }
@@ -564,7 +564,7 @@ html{
     top: 40%;
     background-color: #252A2E;
     padding: 20px;
-    max-swidth: 350px;
+    max-width: 350px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
