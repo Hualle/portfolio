@@ -300,9 +300,9 @@ html{
     0%{width: 0%;}
     100%{width: 30%;}   
 }
-.skills .skill .comunicacion{
+.skills .skill .comunicacion{  
     width: 0%;
-    animation: 2s Comunicacion forwards;
+    animation: 2s comunicacion forwards;
 }
 @keyframes comunicacion{
     0%{width: 0%;}
