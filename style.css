@@ -377,12 +377,14 @@ html{
 .curriculum .fila .item h4{
     font-size: 20px;
     margin-bottom: 10px;
+    text-transform: uppercase;
 }
 .curriculum .fila .item .casa{
     color: #1CB698;
     font-size: 22px;
     font-weight: bold;
     display: block;
+    text-transform: uppercase;
 }
 .curriculum .fila .item .fecha{
     display: block;
