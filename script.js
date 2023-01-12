@@ -1,3 +1,5 @@
+const { download } = require("express/lib/response");
+
 let menuVisible = false;
 //oculta o muestra el menu
 function mostrarOcultarMenu(){
@@ -31,6 +33,7 @@ function efectoHabilidades(){
         habilidades[7].classList.add("dedicacion");
     }
 }
+
 
 
 //Scrolling para aplicar la animacion de la barra de habilidades
