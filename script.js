@@ -33,6 +33,12 @@ function efectoHabilidades(){
         habilidades[7].classList.add("dedicacion");
     }
 }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 158dd0c769c117206fc0e111c6eda6797610b882
 //Scrolling para aplicar la animacion de la barra de habilidades
 window.onscroll = function(){
     efectoHabilidades();
