@@ -1,0 +1,101 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Habitacion Individual",
+    "body": "Las habitaciones individuales del Hotel Avenida son habitaciones dobles, de 15 m², pero diseñadas para una sola persona. Recomendables para viajeros de negocios a A Coruña por su versatilidad y amplios espacios, representan un alojamiento económico y completo.",
+    "price": 50
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Habitacion doble",
+    "body": "Las habitaciones dobles del Hotel Avenida son estancias de 20 m² preparadas para asegurar a todos los huéspedes el máximo confort y descanso. Presentan vistas interiores o exteriores, según disponibilidad.",
+    "price": 100
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "habitaciones triples",
+    "body": "Las habitaciones triples del Hotel Avenida suman un total de 20 m² con espacios de estilo urbano y moderno.Son ideales para compartir durante un viaje de incentivos o bien en una escapada con amigos a A Coruña.La habitación triple está formada por dos camas de 1.05 de ancho y 1.90 de alto y por una cama de 0.90 de ancho y 1.80 de alto.",
+    "price": 130
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "habitacion Familiar",
+    "body": "Las habitaciones familiares del Hotel Avenida son estancias de 30 m² preparadas para asegurar a todos los huéspedes el máximo confort y descanso en sus estancias en familia o con amigos. Presentan todas vistas exteriores.",
+    "price": 180
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "habitaciones triples",
+    "body": "Las habitaciones triples del Hotel Avenida suman un total de 20 m² con espacios de estilo urbano y moderno.Son ideales para compartir durante un viaje de incentivos o bien en una escapada con amigos a A Coruña.La habitación triple está formada por dos camas de 1.05 de ancho y 1.90 de alto y por una cama de 0.90 de ancho y 1.80 de alto.",
+    "price": 130
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "habitacion Familiar",
+    "body": "Las habitaciones familiares del Hotel Avenida son estancias de 30 m² preparadas para asegurar a todos los huéspedes el máximo confort y descanso en sus estancias en familia o con amigos. Presentan todas vistas exteriores.",
+    "price": 180
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "habitaciones triples",
+    "body": "Las habitaciones triples del Hotel Avenida suman un total de 20 m² con espacios de estilo urbano y moderno.Son ideales para compartir durante un viaje de incentivos o bien en una escapada con amigos a A Coruña.La habitación triple está formada por dos camas de 1.05 de ancho y 1.90 de alto y por una cama de 0.90 de ancho y 1.80 de alto.",
+    "price": 130
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "Habitacion Individual",
+    "body": "Las habitaciones individuales del Hotel Avenida son habitaciones dobles, de 15 m², pero diseñadas para una sola persona. Recomendables para viajeros de negocios a A Coruña por su versatilidad y amplios espacios, representan un alojamiento económico y completo.",
+    "price": 50
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "Habitacion Individual",
+    "body": "Las habitaciones individuales del Hotel Avenida son habitaciones dobles, de 15 m², pero diseñadas para una sola persona. Recomendables para viajeros de negocios a A Coruña por su versatilidad y amplios espacios, representan un alojamiento económico y completo.",
+    "price": 50
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "Habitacion Individual",
+    "body": "Las habitaciones individuales del Hotel Avenida son habitaciones dobles, de 15 m², pero diseñadas para una sola persona. Recomendables para viajeros de negocios a A Coruña por su versatilidad y amplios espacios, representan un alojamiento económico y completo.",
+    "price": 50
+  },
+  {
+    "userId": 2,
+    "id": 11,
+    "title": "habitacion Familiar",
+    "body": "Las habitaciones familiares del Hotel Avenida son estancias de 30 m² preparadas para asegurar a todos los huéspedes el máximo confort y descanso en sus estancias en familia o con amigos. Presentan todas vistas exteriores.",
+    "price": 180
+  },
+  {
+    "userId": 2,
+    "id": 12,
+    "title": "Habitacion doble",
+    "body": "Las habitaciones dobles del Hotel Avenida son estancias de 20 m² preparadas para asegurar a todos los huéspedes el máximo confort y descanso. Presentan vistas interiores o exteriores, según disponibilidad.",
+    "price": 100
+  },
+  {
+    "userId": 2,
+    "id": 13,
+    "title": "habitaciones triples",
+    "body": "Las habitaciones triples del Hotel Avenida suman un total de 20 m² con espacios de estilo urbano y moderno.Son ideales para compartir durante un viaje de incentivos o bien en una escapada con amigos a A Coruña.La habitación triple está formada por dos camas de 1.05 de ancho y 1.90 de alto y por una cama de 0.90 de ancho y 1.80 de alto.",
+    "price": 130
+  },
+  {
+    "userId": 2,
+    "id": 14,
+    "title": "Habitacion Individual",
+    "body": "Las habitaciones individuales del Hotel Avenida son habitaciones dobles, de 15 m², pero diseñadas para una sola persona. Recomendables para viajeros de negocios a A Coruña por su versatilidad y amplios espacios, representan un alojamiento económico y completo.",
+    "price": 50
+  }
+  }
+]
