@@ -544,6 +544,7 @@ html{
     background-color: #252A2E;
     color: #fff;
     font-size: 18px;
+    text-transform: capitalize;
 }
 .contacto button{
     cursor: pointer;
