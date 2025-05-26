@@ -84,7 +84,6 @@ html{
     margin-top: 40px;
     font-size: 42px;
     font-family: 'Righteous';
-
 }
 .inicio .contenido-banner h2{
     font-size: 15px;
@@ -109,8 +108,7 @@ html{
 .sobremi{
     background-color: #1e2326;
     color: #fff;
-    padding: 50px 20px;
-    
+    padding: 50px 20px;   
 }
 .sobremi .contenido-seccion{
     max-width: 1100px;
@@ -122,6 +120,7 @@ html{
     text-align: center;
     padding: 20px 0;
 }
+
 .sobremi .contenido-seccion p{
     font: 18px;
     line-height: 22px;
@@ -141,9 +140,11 @@ html{
     font-size: 28px;
     font-family: 'Righteous';
     margin-bottom: 25px;
+    text-transform: capitalize;
 }
 .sobremi .fila .col ul{
     list-style: none;
+    text-transform: capitalize;
 }
 .sobremi .fila .col ul li{
     margin: 12px 0;
@@ -162,6 +163,8 @@ html{
 .sobremi .fila .col .contenedor-intereses{
     display: flex;
     flex-wrap: wrap;
+    
+
 }
 .sobremi .fila .col .contenedor-intereses .interes{
     width: 100px;
@@ -170,16 +173,19 @@ html{
     border-radius: 10px;
     margin: 0 15px 15px 0;
     display: flex;
+    text-transform: capitalize;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     transition: .3s;
+    
 }.sobremi .fila .col .contenedor-intereses .interes:hover{
     background-color: #1CB698;
 }
 .sobremi .fila .col .contenedor-intereses .interes i{
     font-size: 30px;
     margin-bottom: 10px;
+    
 }
 .sobremi button{
     cursor: pointer;
@@ -193,6 +199,7 @@ html{
     color: #fff;
     position: relative;
     z-index: 10;
+    text-transform: capitalize;
 }
 .sobremi button .overlay{
     position: absolute;
@@ -203,6 +210,7 @@ html{
     background-color: #1CB698;
     z-index: -1;
     transition: 1s;
+    
 }
 .sobremi button:hover .overlay{
     width: 100%;
@@ -266,6 +274,7 @@ html{
     top: -17px;
     right: -15px;
     font-size: 14px;
+    text-transform: uppercase;
 }
 /* se agregaran dinamicamente mediante js */
 .skills .skill .javascript{
@@ -282,7 +291,7 @@ html{
 }
 @keyframes htmlcss{
     0%{width: 0%;}
-    100%{width: 90%;}   
+    100%{width: 70%;}   
 }
 .skills .skill .c{
     width: 0%;
@@ -292,11 +301,20 @@ html{
     0%{width: 0%;}
     100%{width: 55%;}   
 }
-.skills .skill .java{
+.skills .skill .reactjs{
     width: 0%;
-    animation: 2s java forwards;
+    animation: 2s reactjs forwards;
 }
-@keyframes java{
+@keyframes reactjs{
+    0%{width: 0%;}
+    100%{width: 45%;}   
+}
+
+.skills .skill .nodejs{
+    width: 0%;
+    animation: 2s nodejs forwards;
+}
+@keyframes nodejs{
     0%{width: 0%;}
     100%{width: 30%;}   
 }
@@ -316,19 +334,19 @@ html{
     0%{width: 0%;}
     100%{width: 70%;}   
 }
-.skills .skill .creatividad{
+.skills .skill .creative{
     width: 0%;
-    animation: 2s creatividad forwards;
+    animation: 2s creative forwards;
 }
-@keyframes creatividad{
+@keyframes creative{
     0%{width: 0%;}
-    100%{width: 95%;}   
+    100%{width: 80%;}   
 }
-.skills .skill .dedicacion{
+.skills .skill .dedicated{
     width: 0%;
-    animation: 2s dedicacion forwards;
+    animation: 2s dedicated forwards;
 }
-@keyframes dedicacion{
+@keyframes dedicated{
     0%{width: 0%;}
     100%{width: 75%;}   
 }
@@ -351,6 +369,7 @@ html{
 .curriculum .fila{
     display: flex;
     justify-content: space-between;
+    text-transform: capitalize;
 }
 .curriculum .fila .col{
     width: 49%;
@@ -377,12 +396,14 @@ html{
 .curriculum .fila .item h4{
     font-size: 20px;
     margin-bottom: 10px;
+    text-transform: uppercase;
 }
 .curriculum .fila .item .casa{
     color: #1CB698;
     font-size: 22px;
     font-weight: bold;
     display: block;
+    text-transform: uppercase;
 }
 .curriculum .fila .item .fecha{
     display: block;
@@ -469,6 +490,8 @@ html{
 .portfolio .galeria .proyecto img{
     width: 100%;
     display: block;
+    
+
 }
 .portfolio .galeria .proyecto .overlay{
     position: absolute;
@@ -529,6 +552,7 @@ html{
     background-color: #252A2E;
     color: #fff;
     font-size: 18px;
+    text-transform: capitalize;
 }
 .contacto button{
     cursor: pointer;
